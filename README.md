@@ -76,7 +76,7 @@ Assignment___3/
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/Assignment3_MST.git
+   git clone https://github.com/BekdauletBol/Assignment3_MST.git
    cd Assignment3_MST
 ```
 
